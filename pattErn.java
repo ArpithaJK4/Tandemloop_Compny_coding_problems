@@ -8,10 +8,7 @@ class HelloIndia {
 
 	        for (int i = 0; i < rows; i++) {
 	         
-	            for (int j = 0; j < i; j++) {
-	                System.out.print(""); 
-	            }
-
+	           
 	            
 	            int num = (i % 2 == 0) ? 1 : i + 1;
 	            for (int k = 0; k <= i; k++) {
